@@ -1,4 +1,4 @@
-# Train Booking System 🚂
+
 # 🚆 Train Booking System (Java)
 
 > A console-based Java project simulating a train reservation system with user booking, ticket generation, and local JSON storage.
