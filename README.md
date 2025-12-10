@@ -138,7 +138,7 @@ java App
 
 ---
 
-## ⭐ What This Project Is Demonstrates
+## ⭐ What This Project Demonstrates:
 
 - Great for Java OOP practice  
 - Demonstrates file handling (JSON read/write)  
@@ -152,4 +152,8 @@ java App
 
 **Anurag Upadhyay**  
 GitHub: https://github.com/Uanuragdhyay
+
+## **💌 Contact & Support**
+📧 Email: [uanurag@gmail.com](mailto:uanurag@gmail.com)  
+📌 GitHub: [GitHub Profile](https://github.com/Uanuragdhyay)
 
